@@ -93,7 +93,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure (Suggested)
+## 📁 Project Structure
 
 ```
 olympics-analysis/
