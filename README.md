@@ -102,13 +102,9 @@ olympics-analysis/
 │   ├── athlete_events.csv
 │   └── noc_regions.csv
 │
-├── notebooks/
-│   ├── preprocessing.ipynb
-│   ├── eda.ipynb
-│   └── medal_analysis.ipynb
-│
-├── app.py                # Streamlit App
-├── requirements.txt
+├── preprocessor.py
+├── helper.py           
+├── app.py     # Streamlit App
 └── README.md
 ```
 
